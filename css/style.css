@@ -1,0 +1,27 @@
+h1 {
+    font-size: 2.5em;
+    font-weight: 100;
+    margin-top: 20px;
+}
+
+i {
+    color: rgb(218, 149, 22);
+}
+
+span {
+    top:3px
+}
+
+.rounded-circle {
+    width: 150px;
+    height: 150px;
+}
+
+.wrapper {
+    width: 150px;
+    height: 180px;
+}
+
+.col-md-4 {
+    padding: 30px;
+}
